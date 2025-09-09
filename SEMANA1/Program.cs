@@ -10,7 +10,7 @@ namespace SEMANA1
     {
         static void Main(string[] args)
         {
-            ejer3();
+            ejer4();
             Console.ReadKey(); //detenimiento de consola
         }
 
@@ -51,7 +51,18 @@ namespace SEMANA1
 
         static void ejer4()
         {
+            Console.WriteLine("ingrese un numero decimal");
+            double num = double.Parse(Console.ReadLine());
 
+            double ra = Math.Sqrt(num); //para raiz cuadrada
+            double redo = Math.Round(num,2); //para redondear cantidad de decimales, el 2 lo indica
+            double cubo = Math.Pow(num,3); //para potencias, el 3 indica la potencia
+            double cubica = Math.Pow(num,1/3d); //raiz cubica representada en exponente fracción, la d en la fraccion indica que es decimal
+
+            Console.WriteLine("\nRaiz cuadrada: " + ra);
+            Console.WriteLine("\nRedondeado: " + redo);
+            Console.WriteLine("\nElevado a 3: " + cubo);
+            Console.WriteLine("\nRaiz cubica: " + cubica);
         }
 
         static void ejer5()
