@@ -10,7 +10,7 @@ namespace SEMANA1
     {
         static void Main(string[] args)
         {
-            ejer1();
+            ejer2();
             Console.ReadKey(); //detenimiento de consola
         }
 
@@ -30,7 +30,7 @@ namespace SEMANA1
 
         static void ejer2()
         {
-
+            Console.WriteLine("\"Yordan\"");
         }
 
         static void ejer3()
