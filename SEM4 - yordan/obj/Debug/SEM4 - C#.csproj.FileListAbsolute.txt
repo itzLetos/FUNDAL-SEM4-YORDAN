@@ -1,0 +1,8 @@
+C:\Users\UPN\Desktop\Clon\FUNDAL-SEM4-YORDAN\SEM4 - yordan\obj\Debug\SEM4 - C#.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\Clon\FUNDAL-SEM4-YORDAN\SEM4 - yordan\obj\Debug\SEM4 - C#.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\Clon\FUNDAL-SEM4-YORDAN\SEM4 - yordan\bin\Debug\SEM4 - yordan.exe.config
+C:\Users\UPN\Desktop\Clon\FUNDAL-SEM4-YORDAN\SEM4 - yordan\bin\Debug\SEM4 - yordan.exe
+C:\Users\UPN\Desktop\Clon\FUNDAL-SEM4-YORDAN\SEM4 - yordan\bin\Debug\SEM4 - yordan.pdb
+C:\Users\UPN\Desktop\Clon\FUNDAL-SEM4-YORDAN\SEM4 - yordan\obj\Debug\SEM4 - yordan.exe
+C:\Users\UPN\Desktop\Clon\FUNDAL-SEM4-YORDAN\SEM4 - yordan\obj\Debug\SEM4 - yordan.pdb
+C:\Users\UPN\Desktop\Clon\FUNDAL-SEM4-YORDAN\SEM4 - yordan\obj\Debug\SEM4 - yordan.exe.config
