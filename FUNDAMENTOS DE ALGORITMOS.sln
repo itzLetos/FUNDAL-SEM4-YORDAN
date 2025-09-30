@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEMANA5_C#", "SEMANA5_C#\SE
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SEM6_PY", "SEM6_PY\SEM6_PY.pyproj", "{E3B27F63-FA88-4269-B45A-2774E39CCC23}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEM6_C#", "SEM6-C#\SEM6_C#.csproj", "{F2FE379B-CDF1-4CE0-9767-8B0A7EEADA2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEM7_C#", "SEM7_C#\SEM7_C#.csproj", "{12EB0B37-6A74-497C-B222-0AC5E1EB8F46}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{37036F32-65B8-4543-944C-46D69E3F334A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E3B27F63-FA88-4269-B45A-2774E39CCC23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E3B27F63-FA88-4269-B45A-2774E39CCC23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2FE379B-CDF1-4CE0-9767-8B0A7EEADA2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2FE379B-CDF1-4CE0-9767-8B0A7EEADA2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2FE379B-CDF1-4CE0-9767-8B0A7EEADA2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2FE379B-CDF1-4CE0-9767-8B0A7EEADA2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12EB0B37-6A74-497C-B222-0AC5E1EB8F46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12EB0B37-6A74-497C-B222-0AC5E1EB8F46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12EB0B37-6A74-497C-B222-0AC5E1EB8F46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12EB0B37-6A74-497C-B222-0AC5E1EB8F46}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

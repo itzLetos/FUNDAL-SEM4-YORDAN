@@ -1,0 +1,8 @@
+C:\Users\UPN\Desktop\clon\FUNDAL-SEM4-YORDAN\SEM6-C#\bin\Debug\SEM6-C#.exe.config
+C:\Users\UPN\Desktop\clon\FUNDAL-SEM4-YORDAN\SEM6-C#\bin\Debug\SEM6-C#.exe
+C:\Users\UPN\Desktop\clon\FUNDAL-SEM4-YORDAN\SEM6-C#\bin\Debug\SEM6-C#.pdb
+C:\Users\UPN\Desktop\clon\FUNDAL-SEM4-YORDAN\SEM6-C#\obj\Debug\SEM6_C#.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\clon\FUNDAL-SEM4-YORDAN\SEM6-C#\obj\Debug\SEM6_C#.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\clon\FUNDAL-SEM4-YORDAN\SEM6-C#\obj\Debug\SEM6-C#.exe
+C:\Users\UPN\Desktop\clon\FUNDAL-SEM4-YORDAN\SEM6-C#\obj\Debug\SEM6-C#.pdb
+C:\Users\UPN\Desktop\clon\FUNDAL-SEM4-YORDAN\SEM6-C#\obj\Debug\SEM6-C#.exe.config
