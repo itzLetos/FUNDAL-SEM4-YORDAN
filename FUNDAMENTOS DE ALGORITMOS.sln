@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEM6_C#", "SEM6-C#\SEM6_C#.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEM7_C#", "SEM7_C#\SEM7_C#.csproj", "{12EB0B37-6A74-497C-B222-0AC5E1EB8F46}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SEM9_PY", "SEM9_PY\SEM9_PY.pyproj", "{12EE2844-23D2-4360-9718-B7E86E9DD41F}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SEM8_PY", "SEM8_PY\SEM8_PY.pyproj", "{D93A9D62-A388-4995-9849-C88472ED890B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,10 @@ Global
 		{12EB0B37-6A74-497C-B222-0AC5E1EB8F46}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12EB0B37-6A74-497C-B222-0AC5E1EB8F46}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12EB0B37-6A74-497C-B222-0AC5E1EB8F46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12EE2844-23D2-4360-9718-B7E86E9DD41F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12EE2844-23D2-4360-9718-B7E86E9DD41F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D93A9D62-A388-4995-9849-C88472ED890B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D93A9D62-A388-4995-9849-C88472ED890B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
